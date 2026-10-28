@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.6"
     },
-    "CreationDate": "2026-10-28T04:46:17-06:00"
+    "CreationDate": "2026-10-28T05:19:10-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "EsploraBot_V1",
       "GUID": "4573706c-6f72-4614-926f-745f56312e6b",
-      "Revision": "rev?"
+      "Revision": "Número 1"
     },
     "Size": {
       "X": 100.05,
