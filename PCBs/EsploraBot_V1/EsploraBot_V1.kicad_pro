@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "Número 1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -539,7 +539,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../Gerbers/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
