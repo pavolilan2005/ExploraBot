@@ -541,7 +541,7 @@
       "netlist": "",
       "plot": "../../Gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Modelos3D/EsploraBot_V1.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
